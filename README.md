@@ -45,7 +45,7 @@ I am a versatile and results-driven professional specializing in problem-solving
 ## 🚀 **Projects**
 
 ### 🌟 Featured Projects
-- [**Thesis Project: Math-Wonders (Won Best Thesis in Research Exhibit**](#): 
+- [**Thesis Project: Math-Wonders (Won Best Thesis in Research Exhibit)**](#): 
 As a Team Leader, Developer, and Documentation Specialist in a team of four, I took the lead in developing an AR application by establishing structured schedules, assigning tasks, and ensuring that project milestones were achieved on time. I also managed comprehensive documentation to track progress and maintain project clarity. Additionally, I facilitated weekly meetings to review progress, address challenges, and ensure smooth collaboration among team members
 
 - [**Final Project Game: Bewitched Brew**](#): As an Assistant Project Manager, Developer, and Consultant, I played a key role in planning and designing the game’s plot and mechanics, actively contributing to its overall development. I leveraged my Unity 3D and game development expertise to review and evaluate team outputs, ensuring high-quality results. Additionally, I worked closely under the project manager’s directives to maintain alignment with project goals and deliverables.
