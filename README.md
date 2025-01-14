@@ -1,6 +1,4 @@
-![Header](https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile)
-
-# Hi there, I'm [Aldrin]! 👋
+# Hi there, I'm Aldrin! 👋
 
 I am a versatile and results-driven professional specializing in problem-solving, software optimization, and system refactoring. I’m passionate about delivering efficient, user-friendly solutions while adapting to new technologies.  
 
@@ -60,7 +58,3 @@ As a Team Leader, Developer, and Documentation Specialist in a team of four, I t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luke-aldrin-mendoza-2873a1327)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lukealdrinmendoza5000@gmail.com)
-
----
-
-![Footer](https://via.placeholder.com/800x100?text=Thanks+for+Visiting!)
